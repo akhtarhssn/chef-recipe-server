@@ -32,7 +32,7 @@
     "name": "Nguyen Van Minh",
     "image": "https://images.pexels.com/photos/3338675/pexels-photo-3338675.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Nguyen Van Minh is a Vietnamese chef who has been cooking traditional Vietnamese dishes for over 20 years.",
-    "cuisine": "Vietnamese"
+    "cuisine": "Thai"
   },
   {
     "id": 6,
@@ -57,23 +57,9 @@
   },
   {
     "id": 9,
-    "name": "Sofia Gonzales",
-    "image": "https://images.pexels.com/photos/6578899/pexels-photo-6578899.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "details": "Sofia Gonzales is a Colombian chef who has brought the flavors of Latin America to the world.",
-    "cuisine": "Latin American"
-  },
-  {
-    "id": 10,
     "name": "Nadia Ahmed",
     "image": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Nadia Ahmed is a Bangladeshi chef who has popularized Bangladeshi cuisine around the world.",
     "cuisine": "Bangladeshi"
-  },
-  {
-    "id": 11,
-    "name": "Mohammed Al-Hassan",
-    "image": "https://images.pexels.com/photos/6937442/pexels-photo-6937442.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "details": "Mohammed Al-Hassan is a Saudi Arabian chef who has created innovative Middle Eastern dishes.",
-    "cuisine": "Middle Eastern"
   }
 ]
