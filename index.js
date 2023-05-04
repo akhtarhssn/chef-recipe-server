@@ -17,14 +17,16 @@ app.get("/chef", (req, res) => {
   res.send(chef);
 });
 app.get("/recipe", (req, res) => {
-  console.log(recipe);
+  console.log(recipe.recipes);
   res.send(recipe);
 });
 
 app.get("/recipe/:id", (req, res) => {
   const id = req.params.id;
   console.log(id);
-  const selectedRecipe = recipe.find((n) => n.id === parseInt(id));
+  const selectedRecipe = recipe
+    .flatMap((n) => n.recipes)
+    .find((recipe) => recipe.id === parseInt(id));
   res.send(selectedRecipe);
 });
 
