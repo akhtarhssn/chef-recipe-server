@@ -12,7 +12,8 @@
         "image": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-2-720x720.jpg",
         "description": "A spicy and flavorful beef curry with onions and tomatoes.",
         "ingredients": "Beef, Onions, Tomatoes, Ginger, Garlic",
-        "details": "To make Beef Bhuna, heat oil in a pan and fry onions until golden brown. Add ginger-garlic paste and beef to the pan, and cook until the meat is browned. Add chopped tomatoes, chili powder, turmeric, coriander, and cumin, and cook until the tomatoes are softened. Pour in water, cover and cook on medium-low heat until the beef is tender. Then, increase the heat to dry out any excess water and add ghee and garam masala. Serve hot with rice or naan."
+        "details": "To make Beef Bhuna, heat oil in a pan and fry onions until golden brown. Add ginger-garlic paste and beef to the pan, and cook until the meat is browned. Add chopped tomatoes, chili powder, turmeric, coriander, and cumin, and cook until the tomatoes are softened. Pour in water, cover and cook on medium-low heat until the beef is tender. Then, increase the heat to dry out any excess water and add ghee and garam masala. Serve hot with rice or naan.",
+        "ratings": 4.5
       },
       {
         "id": 2,
@@ -21,7 +22,8 @@
         "image": "https://static.toiimg.com/thumb/54439535.cms?imgsize=161358&width=800&height=800",
         "description": "A delicious prawn curry with coconut milk.",
         "ingredients": "Coconut milk, Prawns, Mustard oil, Onion, Ginger",
-        "details": "Chingri Malai Curry is a traditional Bengali dish that combines succulent prawns with creamy coconut milk and aromatic spices. To make this dish, first, fry onions, ginger, and garlic in oil, add spices and tomato, then add prawns and cook for a few minutes. Finally, add coconut milk and simmer until the sauce thickens."
+        "details": "Chingri Malai Curry is a traditional Bengali dish that combines succulent prawns with creamy coconut milk and aromatic spices. To make this dish, first, fry onions, ginger, and garlic in oil, add spices and tomato, then add prawns and cook for a few minutes. Finally, add coconut milk and simmer until the sauce thickens.",
+        "ratings": 4.3
       },
       {
         "id": 31,
@@ -30,7 +32,8 @@
         "image": "https://kitchenofdebjani.com/wp-content/uploads/2019/09/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
         "description": "A traditional Bengali recipe of Hilsa fish cooked in a mustard gravy.",
         "ingredients": "Mustard Oil, Ilish fish, Mustard seeds, Turmeric powder, Green chillies",
-        "details": "Shorshe Ilish is a spicy and tangy Bengali fish curry made with mustard seeds, green chilies, and yogurt. To make this dish, marinate the fish with salt and turmeric, then fry it until it is golden brown. In a separate pan, make a paste of mustard seeds, green chilies, yogurt, and turmeric, and add it to the fish. Simmer until the sauce thickens and serve with steamed rice."
+        "details": "Shorshe Ilish is a spicy and tangy Bengali fish curry made with mustard seeds, green chilies, and yogurt. To make this dish, marinate the fish with salt and turmeric, then fry it until it is golden brown. In a separate pan, make a paste of mustard seeds, green chilies, yogurt, and turmeric, and add it to the fish. Simmer until the sauce thickens and serve with steamed rice.",
+        "ratings": 4.2
       },
       {
         "id": 22,
@@ -39,7 +42,8 @@
         "image": "https://salsabd.com/images/Product%20Gallery%20Images/Beef-Kolizee.jpg",
         "description": "A spicy beef curry from the Chittagong region of Bangladesh.",
         "ingredients": "Coconut milk, Prawns, Mustard oil, Onion, Ginger",
-        "details": "Chittagong Style Beef Curry is a spicy and flavorful Bengali dish made with tender beef and aromatic spices. To make this dish, first, fry onions, ginger, and garlic in oil, add spices, tomato, and beef, then cook until the meat is browned. Add water and simmer until the beef is tender and the sauce has thickened. Serve with rice or naan."
+        "details": "Chittagong Style Beef Curry is a spicy and flavorful Bengali dish made with tender beef and aromatic spices. To make this dish, first, fry onions, ginger, and garlic in oil, add spices, tomato, and beef, then cook until the meat is browned. Add water and simmer until the beef is tender and the sauce has thickened. Serve with rice or naan.",
+        "ratings": 4.1
       }
     ]
   },
@@ -56,7 +60,8 @@
         "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chicken-tikka-masala.jpg",
         "description": "A classic Indian dish with tender chicken in a creamy tomato sauce.",
         "ingredients": "Chicken, Yogurt, Lemon Juice, Spices, Tomatoes",
-        "details": "Chicken Tikka Masala: First marinate chicken in a mix of yogurt and spices, then grill or bake until slightly charred. In a separate pan, sauté onions, garlic, and ginger until fragrant, then add tomatoes and spices to make a sauce. Add cooked chicken to the sauce and simmer until tender."
+        "details": "Chicken Tikka Masala: First marinate chicken in a mix of yogurt and spices, then grill or bake until slightly charred. In a separate pan, sauté onions, garlic, and ginger until fragrant, then add tomatoes and spices to make a sauce. Add cooked chicken to the sauce and simmer until tender.",
+        "ratings": 5
       },
       {
         "id": 4,
@@ -65,7 +70,8 @@
         "image": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
         "description": "A vegetarian Indian dish with spinach and paneer cheese.",
         "ingredients": "Spinach, Paneer, Onion, Tomatoes, Cream",
-        "details": "Palak Paneer: Cook spinach and blend into a puree. In another pan, fry onions, garlic, and ginger until golden brown, then add spices and fry for another minute. Add tomato puree and simmer for a few minutes. Add paneer and the spinach puree, and simmer until the paneer is heated through."
+        "details": "Palak Paneer: Cook spinach and blend into a puree. In another pan, fry onions, garlic, and ginger until golden brown, then add spices and fry for another minute. Add tomato puree and simmer for a few minutes. Add paneer and the spinach puree, and simmer until the paneer is heated through.",
+        "ratings": 3.5
       },
       {
         "id": 11,
@@ -74,7 +80,8 @@
         "image": "https://www.foodandwine.com/thmb/9WzLbycV-hnooIingsH3bu48Ieo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200810-r-xl-lamb-rogan-josh-3a079f6beb2a4fc68e1aa1d4af36eba2.jpg",
         "description": "A hearty lamb curry with aromatic spices and yogurt.",
         "ingredients": "Lamb, Yogurt, Ghee, Onions, Tomatoes",
-        "details": "Lamb Rogan Josh: Sear lamb pieces in a hot pan, then remove and set aside. In the same pan, fry onions, garlic, and ginger until soft and golden brown. Add tomatoes, yogurt, and spices and simmer for a few minutes. Add the lamb back to the pan and simmer until the meat is tender and the sauce has thickened."
+        "details": "Lamb Rogan Josh: Sear lamb pieces in a hot pan, then remove and set aside. In the same pan, fry onions, garlic, and ginger until soft and golden brown. Add tomatoes, yogurt, and spices and simmer for a few minutes. Add the lamb back to the pan and simmer until the meat is tender and the sauce has thickened.",
+        "ratings": 4
       },
       {
         "id": 14,
@@ -83,7 +90,8 @@
         "image": "https://thebigmansworld.com/wp-content/uploads/2022/11/tandoori-chicken-recipe.jpg",
         "description": "A popular Indian dish made by marinating chicken in yogurt and spices, then roasting it in a tandoor oven.",
         "ingredients": "Chicken, Yogurt, Lemon, Ginger, Garlic",
-        "details": "Tandoori Chicken: Marinate chicken in a mixture of yogurt and spices for several hours. Grill the chicken until slightly charred, then serve with lemon wedges and cilantro."
+        "details": "Tandoori Chicken: Marinate chicken in a mixture of yogurt and spices for several hours. Grill the chicken until slightly charred, then serve with lemon wedges and cilantro.",
+        "ratings": 4.4
       }
     ]
   },
@@ -100,7 +108,8 @@
         "image": "https://christieathome.com/wp-content/uploads/2022/09/Miso-Soup-22.jpg",
         "description": "A Japanese soup with tofu, seaweed, and miso paste.",
         "ingredients": "Miso paste, Dashi (Japanese soup stock), Tofu, Wakame seaweed, Green onions",
-        "details": "Miso Soup: Miso soup is a traditional Japanese soup consisting of a broth made with miso paste and dashi (a soup stock made from fish and seaweed). The soup is typically served with various ingredients such as tofu, seaweed, scallions, and mushrooms, and can be enjoyed as a starter or a light meal."
+        "details": "Miso Soup: Miso soup is a traditional Japanese soup consisting of a broth made with miso paste and dashi (a soup stock made from fish and seaweed). The soup is typically served with various ingredients such as tofu, seaweed, scallions, and mushrooms, and can be enjoyed as a starter or a light meal.",
+        "ratings": 4.7
       },
       {
         "id": 6,
@@ -109,7 +118,8 @@
         "image": "https://www.eatwell101.com/wp-content/uploads/2021/12/baked-teriyaki-salmon-recipe.jpg",
         "description": "Grilled salmon glazed with a sweet and savory teriyaki sauce.",
         "ingredients": "Salmon, Soy sauce, Mirin, Sake, Sugar",
-        "details": "Teriyaki Salmon: Teriyaki salmon is a Japanese dish that features salmon fillets marinated in a mixture of soy sauce, sake, mirin, and sugar, then grilled or broiled until cooked through. The result is a flavorful and tender fish with a slightly sweet and savory glaze."
+        "details": "Teriyaki Salmon: Teriyaki salmon is a Japanese dish that features salmon fillets marinated in a mixture of soy sauce, sake, mirin, and sugar, then grilled or broiled until cooked through. The result is a flavorful and tender fish with a slightly sweet and savory glaze.",
+        "ratings": 4.8
       },
       {
         "id": 12,
@@ -118,7 +128,8 @@
         "image": "https://www.foodandwine.com/thmb/hicXzmGIIpkwyX3Q55IYiupQjMo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Katsu-Curry-Japanese-Curry-with-Tonkatsu-Nuggets-and-Fried-Egg-FT-RECIPE0922-2000-bd3fa359de3544448906652f53f53bb3.jpg",
         "description": "A Japanese dish with breaded chicken or pork served with a rich curry sauce.",
         "ingredients": "Coconut milk, Prawns, Mustard oil, Onion, Ginger",
-        "details": "Katsu Curry: Katsu curry is a Japanese dish consisting of a breaded and fried cutlet of meat (usually chicken or pork) served with a rich and flavorful curry sauce. The curry sauce is made with a blend of spices and vegetables, and can be served over rice or with noodles."
+        "details": "Katsu Curry: Katsu curry is a Japanese dish consisting of a breaded and fried cutlet of meat (usually chicken or pork) served with a rich and flavorful curry sauce. The curry sauce is made with a blend of spices and vegetables, and can be served over rice or with noodles.",
+        "ratings": 4.9
       },
       {
         "id": 15,
@@ -127,7 +138,8 @@
         "image": "https://knifeandsoul.com/wp-content/uploads/2022/09/crunchy-roll-sushi-recipe-recipe-card.jpg",
         "description": "A Japanese dish made with vinegared rice and various ingredients, such as raw fish, seafood, and vegetables.",
         "ingredients": "Coconut milk, Prawns, Mustard oil, Onion, Ginger",
-        "details": "Sushi: Sushi is a Japanese dish made with vinegared rice, often combined with raw fish, seafood, or vegetables. The rice is seasoned with vinegar, sugar, and salt, and then rolled with various fillings in sheets of seaweed (nori). Sushi can be served as individual pieces or as rolls, and is often accompanied by soy sauce, wasabi, and pickled ginger."
+        "details": "Sushi: Sushi is a Japanese dish made with vinegared rice, often combined with raw fish, seafood, or vegetables. The rice is seasoned with vinegar, sugar, and salt, and then rolled with various fillings in sheets of seaweed (nori). Sushi can be served as individual pieces or as rolls, and is often accompanied by soy sauce, wasabi, and pickled ginger.",
+        "ratings": 4.5
       }
     ]
   },
@@ -144,7 +156,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg/1200px-Phat_Thai_kung_Chang_Khien_street_stall.jpg",
         "description": "A popular Thai dish with rice noodles, shrimp, peanuts, and vegetables.",
         "ingredients": "Coconut milk, Prawns, Mustard oil, Onion, Ginger",
-        "details": "Pad Thai: To make Pad Thai, first stir-fry soaked rice noodles with shrimp or chicken, tofu, bean sprouts, garlic, shallots, and a lightly beaten egg in a hot wok or skillet. Then add a sauce made of tamarind paste, fish sauce, sugar, and chili flakes. Finish with chopped peanuts, lime wedges, and fresh cilantro."
+        "details": "Pad Thai: To make Pad Thai, first stir-fry soaked rice noodles with shrimp or chicken, tofu, bean sprouts, garlic, shallots, and a lightly beaten egg in a hot wok or skillet. Then add a sauce made of tamarind paste, fish sauce, sugar, and chili flakes. Finish with chopped peanuts, lime wedges, and fresh cilantro.",
+        "ratings": 4.5
       },
       {
         "id": 8,
@@ -153,7 +166,8 @@
         "image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/04/green-curry-new-sq-3.jpg",
         "description": "A spicy Thai curry with chicken, coconut milk, and green chilies.",
         "ingredients": "Salmon, Soy sauce, Mirin, Sake, Sugar",
-        "details": "Green Curry: To make Green Curry, fry green curry paste in oil along with sliced chicken, shrimp, or tofu. Add coconut milk, Thai eggplant, bamboo shoots, and kaffir lime leaves. Let the curry simmer until the vegetables are tender. Finish with fresh basil leaves and serve with rice."
+        "details": "Green Curry: To make Green Curry, fry green curry paste in oil along with sliced chicken, shrimp, or tofu. Add coconut milk, Thai eggplant, bamboo shoots, and kaffir lime leaves. Let the curry simmer until the vegetables are tender. Finish with fresh basil leaves and serve with rice.",
+        "ratings": 4.5
       },
       {
         "id": 13,
@@ -162,7 +176,8 @@
         "image": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
         "description": "A spicy and sour Thai soup with shrimp, lemongrass, and chili paste.",
         "ingredients": "Miso paste, Dashi (Japanese soup stock), Tofu, Wakame seaweed, Green onions",
-        "details": "Tom Yum Soup: To make Tom Yum Soup, first boil lemongrass and galangal in water to make a broth. Add shrimp or chicken, mushrooms, and tomatoes to the broth. Then add a mixture of fish sauce, lime juice, sugar, and chili paste. Simmer until the shrimp or chicken is cooked through. Finish with fresh cilantro and scallions."
+        "details": "Tom Yum Soup: To make Tom Yum Soup, first boil lemongrass and galangal in water to make a broth. Add shrimp or chicken, mushrooms, and tomatoes to the broth. Then add a mixture of fish sauce, lime juice, sugar, and chili paste. Simmer until the shrimp or chicken is cooked through. Finish with fresh cilantro and scallions.",
+        "ratings": 4.6
       },
       {
         "id": 16,
@@ -171,7 +186,8 @@
         "image": "https://www.alldayieat.com/wp-content/uploads/2017/10/Pad-Kra-Pao-Moo-Stir-Fried-Pork-with-Thai-Holy-Basil-4.jpg",
         "description": "A Thai stir-fry dish made with ground pork, basil, chili, and garlic.",
         "ingredients": "Ground pork, Thai basil, Garlic, Chili, Oyster sauce",
-        "details": "Pad Krapow Moo Saap: To make Pad Krapow Moo Saap, stir-fry minced pork with garlic, chili, and holy basil. Add a sauce made of soy sauce, oyster sauce, and a little sugar. Serve with rice and a fried egg on top."
+        "details": "Pad Krapow Moo Saap: To make Pad Krapow Moo Saap, stir-fry minced pork with garlic, chili, and holy basil. Add a sauce made of soy sauce, oyster sauce, and a little sugar. Serve with rice and a fried egg on top.",
+        "ratings": 4.3
       },
       {
         "id": 18,
@@ -180,7 +196,8 @@
         "image": "https://www.servedfromscratch.com/wp-content/uploads/2014/12/Crock-Pot-Chicken-Pho-18-2.jpg",
         "description": "A Thai noodle soup with beef or chicken, herbs, and spices.",
         "ingredients": "rice noodles, broth, herbs, and meat",
-        "details": "Pho: To make Pho, simmer beef bones and aromatic spices like star anise, cinnamon, and cloves in water to make a flavorful broth. Cook rice noodles and thinly sliced beef in the broth until the beef is cooked through. Serve with fresh herbs like basil, mint, and cilantro, and bean sprouts, lime wedges, and chili sauce on the side."
+        "details": "Pho: To make Pho, simmer beef bones and aromatic spices like star anise, cinnamon, and cloves in water to make a flavorful broth. Cook rice noodles and thinly sliced beef in the broth until the beef is cooked through. Serve with fresh herbs like basil, mint, and cilantro, and bean sprouts, lime wedges, and chili sauce on the side.",
+        "ratings": 4.5
       }
     ]
   },
@@ -197,7 +214,8 @@
         "image": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-threeByTwoMediumAt2X-v2.jpg",
         "description": "An Italian pasta dish with bacon, eggs, and Parmesan cheese.",
         "ingredients": "Pancetta, Spaghetti, Eggs, Parmesan Cheese, Black Pepper",
-        "details": "Spaghetti Carbonara: Cook spaghetti according to package instructions. Meanwhile, fry diced bacon in a pan until crispy. Beat eggs, grated parmesan cheese, and black pepper in a bowl. Drain the spaghetti and add it to the pan with the bacon. Remove the pan from heat, then pour the egg mixture over the spaghetti and toss until the eggs are cooked and the sauce is creamy."
+        "details": "Spaghetti Carbonara: Cook spaghetti according to package instructions. Meanwhile, fry diced bacon in a pan until crispy. Beat eggs, grated parmesan cheese, and black pepper in a bowl. Drain the spaghetti and add it to the pan with the bacon. Remove the pan from heat, then pour the egg mixture over the spaghetti and toss until the eggs are cooked and the sauce is creamy.",
+        "ratings": 4.8
       },
       {
         "id": 10,
@@ -206,7 +224,8 @@
         "image": "https://www.schaer.com/sites/default/files/styles/landscape_xxl/public/2923_Classic%20Margherita%20Pizza.jpg",
         "description": "A classic Italian pizza with tomato sauce, mozzarella cheese, and basil.",
         "ingredients": "Tomato sauce, Mozzarella cheese, Basil, Olive oil, Pizza dough",
-        "details": "Margherita Pizza: Preheat the oven to 500°F. Roll out the pizza dough and place it on a baking sheet. Spread tomato sauce over the dough, leaving a small border around the edges. Add slices of fresh mozzarella cheese and sprinkle with fresh basil leaves. Drizzle olive oil on top. Bake in the preheated oven for about 10-12 minutes or until the crust is golden brown."
+        "details": "Margherita Pizza: Preheat the oven to 500°F. Roll out the pizza dough and place it on a baking sheet. Spread tomato sauce over the dough, leaving a small border around the edges. Add slices of fresh mozzarella cheese and sprinkle with fresh basil leaves. Drizzle olive oil on top. Bake in the preheated oven for about 10-12 minutes or until the crust is golden brown.",
+        "ratings": 4.5
       },
       {
         "id": 17,
@@ -215,7 +234,8 @@
         "image": "https://www.allrecipes.com/thmb/bhh-UuQOUCuyVJ-9PodUPWSbnBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23600-worlds-best-lasagna-armag-1x1-1-339b21b9f88b48c9943def663f43889c.jpg",
         "description": "An Italian baked pasta dish made with layers of lasagna sheets, meat or vegetables, tomato sauce, and cheese.",
         "ingredients": "Lasagna noodles, Ground beef, Onion, Garlic, Canned tomatoes, Tomato paste, Water, Sugar",
-        "details": "Lasagna: Cook lasagna noodles according to package instructions. Meanwhile, cook ground beef and Italian sausage in a large skillet over medium heat. Add garlic, onion, canned tomatoes, tomato paste, and dried herbs. Simmer for about 20 minutes. In a separate bowl, combine ricotta cheese, eggs, salt, and black pepper. Spread a layer of meat sauce in a baking dish. Add a layer of lasagna noodles, then a layer of the ricotta mixture. Repeat the layers until all ingredients are used. Top with shredded mozzarella cheese. Bake at 375°F for about 30-40 minutes."
+        "details": "Lasagna: Cook lasagna noodles according to package instructions. Meanwhile, cook ground beef and Italian sausage in a large skillet over medium heat. Add garlic, onion, canned tomatoes, tomato paste, and dried herbs. Simmer for about 20 minutes. In a separate bowl, combine ricotta cheese, eggs, salt, and black pepper. Spread a layer of meat sauce in a baking dish. Add a layer of lasagna noodles, then a layer of the ricotta mixture. Repeat the layers until all ingredients are used. Top with shredded mozzarella cheese. Bake at 375°F for about 30-40 minutes.",
+        "ratings": 4.7
       },
       {
         "id": 32,
@@ -224,7 +244,8 @@
         "image": "https://blog.giallozafferano.it/inventaricette/wp-content/uploads/2020/02/risotto-milanese-fb.jpg",
         "description": "Creamy saffron risotto made with white wine, chicken broth, and parmesan cheese.",
         "ingredients": "Arborio rice, beef or chicken broth, saffron, butter, onion,",
-        "details": "Risotto alla Milanese: Melt butter in a large pot over medium heat. Add chopped onion and sauté until softened. Add Arborio rice and stir for a few minutes until the rice is coated with butter. Pour in white wine and stir until it is absorbed. Add hot chicken broth, one ladleful at a time, stirring constantly until the broth is absorbed. Continue adding broth and stirring until the rice is cooked but still al dente. Stir in grated parmesan cheese and saffron threads."
+        "details": "Risotto alla Milanese: Melt butter in a large pot over medium heat. Add chopped onion and sauté until softened. Add Arborio rice and stir for a few minutes until the rice is coated with butter. Pour in white wine and stir until it is absorbed. Add hot chicken broth, one ladleful at a time, stirring constantly until the broth is absorbed. Continue adding broth and stirring until the rice is cooked but still al dente. Stir in grated parmesan cheese and saffron threads.",
+        "ratings": 4.7
       }
     ]
   },
@@ -241,7 +262,8 @@
         "image": "https://www.jessicagavin.com/wp-content/uploads/2019/01/kung-pao-chicken-5-1200.jpg",
         "description": "A classic Chinese dish with chicken, peanuts, and vegetables in a spicy sauce.",
         "ingredients": "Chicken, Peanuts, Dried Chili Peppers, Sichuan peppercorns, Garlic",
-        "details": "Kung Pao Chicken: Cut chicken breast into small pieces. Marinate the chicken with soy sauce, Shaoxing wine, and cornstarch for about 10 minutes. Heat oil in a wok or pan over high heat. Add dried red chili peppers and Sichuan peppercorns. Stir-fry until fragrant. Add diced chicken and stir-fry until it is cooked through. Add diced bell peppers and peanuts, and stir-fry for another minute. Drizzle with soy sauce and sesame oil, and serve."
+        "details": "Kung Pao Chicken: Cut chicken breast into small pieces. Marinate the chicken with soy sauce, Shaoxing wine, and cornstarch for about 10 minutes. Heat oil in a wok or pan over high heat. Add dried red chili peppers and Sichuan peppercorns. Stir-fry until fragrant. Add diced chicken and stir-fry until it is cooked through. Add diced bell peppers and peanuts, and stir-fry for another minute. Drizzle with soy sauce and sesame oil, and serve.",
+        "ratings": 4.4
       },
       {
         "id": 19,
@@ -250,7 +272,8 @@
         "image": "https://omnivorescookbook.com/wp-content/uploads/2022/05/220510_Mapo-Tofu_550.jpg",
         "description": "A spicy and flavorful tofu dish with ground pork and Chinese peppercorns.",
         "ingredients": "Ground pork, Tofu, Sichuan peppercorns, Garlic, Ginger, Scallions",
-        "details": "Mapo Tofu: Cut tofu into small cubes. Heat oil in a wok or pan over medium-high heat. Add ground pork and stir-fry until browned. Add minced garlic, ginger, and chopped scallions. Stir-fry for a minute. Add chili bean paste, soy sauce, and chicken broth. Stir and bring to a boil. Add the cubed tofu and simmer for 5-7 minutes. Mix cornstarch with water to make a slurry. Add the slurry to the pan and stir until the sauce thickens. Serve with rice."
+        "details": "Mapo Tofu: Cut tofu into small cubes. Heat oil in a wok or pan over medium-high heat. Add ground pork and stir-fry until browned. Add minced garlic, ginger, and chopped scallions. Stir-fry for a minute. Add chili bean paste, soy sauce, and chicken broth. Stir and bring to a boil. Add the cubed tofu and simmer for 5-7 minutes. Mix cornstarch with water to make a slurry. Add the slurry to the pan and stir until the sauce thickens. Serve with rice.",
+        "ratings": 4.6
       },
       {
         "id": 20,
@@ -259,7 +282,8 @@
         "image": "https://cdn.ready-market.com/101/21cd62de//Templates/pic/ANKO-Xiao-Long-Bao-1200x1200.jpg?v=ccd186e5",
         "description": "Steamed dumplings filled with pork and a savory soup broth.",
         "ingredients": "Ground pork, Green onions, Soy sauce, Rice wine, Ginger",
-        "details": "Xiaolongbao: Combine flour, water, and yeast in a bowl. Knead the dough until it is smooth and elastic. Cover and let it rise for about an hour. Roll out the dough and cut it into circles. Add a small amount of filling (ground pork, ginger, soy sauce, sesame oil, and chicken broth) to each circle. Fold the edges of the circle up around the filling, leaving a small opening at the top. Place the xiaolongbao in a steamer and steam for about 10 minutes."
+        "details": "Xiaolongbao: Combine flour, water, and yeast in a bowl. Knead the dough until it is smooth and elastic. Cover and let it rise for about an hour. Roll out the dough and cut it into circles. Add a small amount of filling (ground pork, ginger, soy sauce, sesame oil, and chicken broth) to each circle. Fold the edges of the circle up around the filling, leaving a small opening at the top. Place the xiaolongbao in a steamer and steam for about 10 minutes.",
+        "ratings": 4.2
       },
       {
         "id": 6,
@@ -268,7 +292,8 @@
         "image": "https://redhousespice.com/wp-content/uploads/2020/08/Kung-Pao-Chicken-6-scaled.jpg",
         "description": "A spicy stir-fry dish with chicken, peanuts, vegetables, and Sichuan peppercorns.",
         "ingredients": "Peanuts, Chicken, Dried Chili Peppers, Sichuan Peppercorns, Scallions",
-        "details": "Gong Bao Chicken is a popular Chinese stir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan sauce. The chicken is first marinated in a mixture of soy sauce, Shaoxing wine, and cornstarch, then stir-fried with dried chili peppers, Sichuan peppercorns, garlic, ginger, and scallions. The dish is finished with a sweet and tangy sauce made with soy sauce, rice vinegar, and sugar. It is usually served with steamed rice."
+        "details": "Gong Bao Chicken is a popular Chinese stir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan sauce. The chicken is first marinated in a mixture of soy sauce, Shaoxing wine, and cornstarch, then stir-fried with dried chili peppers, Sichuan peppercorns, garlic, ginger, and scallions. The dish is finished with a sweet and tangy sauce made with soy sauce, rice vinegar, and sugar. It is usually served with steamed rice.",
+        "ratings": 4.7
       }
     ]
   },
@@ -285,7 +310,8 @@
         "image": "https://keviniscooking.com/wp-content/uploads/2017/04/Tacos-Al-Pastor-square.jpg",
         "description": "A traditional Mexican dish consisting of marinated pork cooked on a vertical spit, served on soft corn tortillas with pineapple and cilantro.",
         "ingredients": "Pork shoulder, Pineapple, Onion, Cilantro, Corn tortillas",
-        "details": "Tacos al Pastor is a traditional Mexican dish made with marinated pork that is cooked on a spit, similar to shawarma. The pork is marinated in a mixture of spices, chilies, and pineapple, then sliced thin and served on soft corn tortillas. The tacos are typically garnished with chopped onions, cilantro, and a squeeze of lime."
+        "details": "Tacos al Pastor is a traditional Mexican dish made with marinated pork that is cooked on a spit, similar to shawarma. The pork is marinated in a mixture of spices, chilies, and pineapple, then sliced thin and served on soft corn tortillas. The tacos are typically garnished with chopped onions, cilantro, and a squeeze of lime.",
+        "ratings": 4.7
       },
       {
         "id": 22,
@@ -294,7 +320,8 @@
         "image": "https://www.allrecipes.com/thmb/z3kI3C-Z63q3UHqwqbr53SCU1Y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14231_guacamole_Rita-1x1-1-6797bd34d19b4f88a210f2086ca1156f.jpg",
         "description": "A dip made from mashed avocados mixed with lime juice, diced tomatoes, onions, and cilantro, served with tortilla chips.",
         "ingredients": "Avocado, Lime juice, Salt, Tomato, Onion",
-        "details": "Guacamole is a classic Mexican dip made with mashed avocados, tomatoes, onions, cilantro, and lime juice. It is typically served with tortilla chips as an appetizer or snack. Some variations may include additional ingredients such as garlic, jalapeno peppers, or cumin."
+        "details": "Guacamole is a classic Mexican dip made with mashed avocados, tomatoes, onions, cilantro, and lime juice. It is typically served with tortilla chips as an appetizer or snack. Some variations may include additional ingredients such as garlic, jalapeno peppers, or cumin.",
+        "ratings": 4.6
       },
       {
         "id": 23,
@@ -303,7 +330,8 @@
         "image": "https://www.yellowblissroad.com/wp-content/uploads/2020/02/Ground-Beef-Enchiladas-social.jpg",
         "description": "A dish made from rolled tortillas filled with meat, cheese, beans, and/or vegetables, and topped with a chili sauce and cheese.",
         "ingredients": "Tomato sauce, Tortillas, Cheese, Onion, Shredded chicken",
-        "details": "Enchiladas are a traditional Mexican dish made with corn tortillas that are filled with meat, cheese, or beans, rolled up, and topped with a chili sauce and cheese. The dish is usually baked until the cheese is melted and bubbly. Enchiladas can be served with a side of rice and beans."
+        "details": "Enchiladas are a traditional Mexican dish made with corn tortillas that are filled with meat, cheese, or beans, rolled up, and topped with a chili sauce and cheese. The dish is usually baked until the cheese is melted and bubbly. Enchiladas can be served with a side of rice and beans.",
+        "ratings": 4.2
       }
     ]
   },
@@ -320,7 +348,8 @@
         "image": "https://www.allrecipes.com/thmb/Q61_c1qE1D9o1wk0fpy8vd-EzPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/239230-chef-johns-coq-au-vin-MFS_364-357b537b2e324407b6559d6cc33e5738.jpg",
         "description": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and pearl onions.",
         "ingredients": "Chicken, Red Wine, Bacon, Mushrooms, Pearl Onions",
-        "details": "Coq au Vin is a classic French dish made with chicken that is braised in red wine, bacon, and vegetables. The dish is usually cooked slowly over low heat until the chicken is tender and the flavors have melded together. Coq au Vin is typically served with boiled potatoes, rice, or crusty bread."
+        "details": "Coq au Vin is a classic French dish made with chicken that is braised in red wine, bacon, and vegetables. The dish is usually cooked slowly over low heat until the chicken is tender and the flavors have melded together. Coq au Vin is typically served with boiled potatoes, rice, or crusty bread.",
+        "ratings": 4.7
       },
       {
         "id": 25,
@@ -329,7 +358,8 @@
         "image": "https://twoplaidaprons.com/wp-content/uploads/2022/12/ratatouille-baked-in-copper-pan-thumbnail.jpg",
         "description": "A vegetable stew made with eggplant, tomatoes, zucchini, bell peppers, onions, and garlic.",
         "ingredients": "Eggplant, Tomatoes, Zucchini, Bell peppers, Onion",
-        "details": "Ratatouille is a French vegetable stew made with eggplant, zucchini, bell peppers, onions, and tomatoes. The vegetables are typically sauteed in olive oil and seasoned with herbs such as thyme and rosemary. Ratatouille can be served as a side dish or as a main course, and is often topped with grated Parmesan cheese."
+        "details": "Ratatouille is a French vegetable stew made with eggplant, zucchini, bell peppers, onions, and tomatoes. The vegetables are typically sauteed in olive oil and seasoned with herbs such as thyme and rosemary. Ratatouille can be served as a side dish or as a main course, and is often topped with grated Parmesan cheese.",
+        "ratings": 4.9
       },
       {
         "id": 26,
@@ -338,7 +368,8 @@
         "image": "https://amandascookin.com/wp-content/uploads/2022/10/Beef-Bourguignon-RCSQ.jpg",
         "description": "A hearty beef stew cooked in red wine with bacon, mushrooms, and pearl onions.",
         "ingredients": "Beef, Onions, Carrots, Garlic, Red wine",
-        "details": "Beef Bourguignon is a classic French dish made with beef that is braised in red wine, bacon, and vegetables. The dish is usually cooked slowly over low heat until the beef is tender and the flavors have melded together. Beef Bourguignon is typically served with boiled potatoes, rice, or crusty bread."
+        "details": "Beef Bourguignon is a classic French dish made with beef that is braised in red wine, bacon, and vegetables. The dish is usually cooked slowly over low heat until the beef is tender and the flavors have melded together. Beef Bourguignon is typically served with boiled potatoes, rice, or crusty bread.",
+        "ratings": 4.7
       }
     ]
   },
@@ -355,7 +386,8 @@
         "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FEdit%2F2023-01-Galbi-Jjim%20%2Fgalbijjim_02_final",
         "description": "Galbi Jjim is a traditional Korean stew made with beef short ribs, vegetables, and a sweet and savory sauce.",
         "ingredients": "beef short ribs, soy sauce, sugar, garlic, ginger",
-        "details": "Galbi Jjim is a Korean braised beef dish made with short ribs that are marinated in a mixture of soy sauce, sugar, garlic, and other seasonings, then slow-cooked with vegetables such as carrots, onions, and potatoes. The resulting dish is tender, savory, and slightly sweet. It is typically served with steamed rice."
+        "details": "Galbi Jjim is a Korean braised beef dish made with short ribs that are marinated in a mixture of soy sauce, sugar, garlic, and other seasonings, then slow-cooked with vegetables such as carrots, onions, and potatoes. The resulting dish is tender, savory, and slightly sweet. It is typically served with steamed rice.",
+        "ratings": 4.6
       },
       {
         "id": 28,
@@ -364,7 +396,8 @@
         "image": "https://drivemehungry.com/wp-content/uploads/2020/06/japchae-korean-glass-noodles-19.jpg",
         "description": "Japchae is a Korean stir-fried noodle dish made with sweet potato glass noodles, vegetables, and meat.",
         "ingredients": "Sweet potato starch noodles, soy sauce, sesame oil, sugar",
-        "details": "Japchae is a Korean stir-fry dish made with sweet potato glass noodles, vegetables, and meat such as beef or chicken. The noodles are typically cooked and then stir-fried with vegetables such as spinach, carrots, and mushrooms, as well as a sweet and savory sauce made with soy sauce, sugar, and sesame oil."
+        "details": "Japchae is a Korean stir-fry dish made with sweet potato glass noodles, vegetables, and meat such as beef or chicken. The noodles are typically cooked and then stir-fried with vegetables such as spinach, carrots, and mushrooms, as well as a sweet and savory sauce made with soy sauce, sugar, and sesame oil.",
+        "ratings": 4.7
       },
       {
         "id": 29,
@@ -373,7 +406,8 @@
         "image": "https://assets.bonappetit.com/photos/624f3dc73a6e981591892a9d/1:1/w_2800,h_2800,c_limit/0407-bibimbap-at-home-lede.jpg",
         "description": "Bibimbap is a Korean mixed rice bowl that typically includes vegetables, meat, and a fried egg, all served over rice.",
         "ingredients": "Rice, Beef, Carrots, Zucchini, Mushrooms",
-        "details": "To make bibimbap, cook rice and prepare assorted vegetables like carrots, zucchini, mushrooms, and spinach. Saute each vegetable separately with garlic and sesame oil, and marinate beef or tofu with soy sauce, sugar, and sesame oil. Fry an egg and arrange all ingredients on top of the rice in a bowl. Serve with gochujang sauce."
+        "details": "To make bibimbap, cook rice and prepare assorted vegetables like carrots, zucchini, mushrooms, and spinach. Saute each vegetable separately with garlic and sesame oil, and marinate beef or tofu with soy sauce, sugar, and sesame oil. Fry an egg and arrange all ingredients on top of the rice in a bowl. Serve with gochujang sauce.",
+        "ratings": 4.6
       }
     ]
   }

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Jasmine Lee",
-    "image": "https://images.pexels.com/photos/4057693/pexels-photo-4057693.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "https://reactheme.com/products/wordpress/dinenos/wp-content/uploads/2023/02/img-1.webp",
     "details": "Jasmine Lee has been a chef for over 10 years and specializes in Chinese cuisine.",
     "cuisine": "Chinese",
     "experience": 10,
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "name": "Raj Patel",
-    "image": "https://images.pexels.com/photos/4253301/pexels-photo-4253301.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "https://reactheme.com/products/wordpress/dinenos/wp-content/uploads/2023/02/img-6.webp",
     "details": "Raj Patel is a renowned Indian chef with over 15 years of experience.",
     "cuisine": "Indian",
     "experience": 7,
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "name": "Mario Rossi",
-    "image": "https://images.pexels.com/photos/4686830/pexels-photo-4686830.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "https://reactheme.com/products/wordpress/dinenos/wp-content/uploads/2023/02/img-3.webp",
     "details": "Mario Rossi is an Italian chef who has worked in some of the best restaurants in Italy.",
     "cuisine": "Italian",
     "experience": 5,
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "name": "Carlos Gonzalez",
-    "image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "https://reactheme.com/products/wordpress/dinenos/wp-content/uploads/2023/02/img-4.webp",
     "details": "Carlos Gonzalez is a Mexican chef who has won numerous awards for his authentic Mexican dishes.",
     "cuisine": "Mexican",
     "experience": 6,
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "name": "Nguyen Van Minh",
-    "image": "https://images.pexels.com/photos/3338675/pexels-photo-3338675.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "https://reactheme.com/products/wordpress/dinenos/wp-content/uploads/2023/02/img-5.webp",
     "details": "Nguyen Van Minh is a Vietnamese chef who has been cooking traditional Vietnamese dishes for over 20 years.",
     "cuisine": "Thai",
     "experience": 3,
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "name": "Marie Claude",
-    "image": "https://images.pexels.com/photos/4253712/pexels-photo-4253712.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "https://reactheme.com/products/wordpress/dinenos/wp-content/uploads/2023/02/img-7.webp",
     "details": "Marie Claude is a French chef who has worked in Michelin-starred restaurants in France.",
     "cuisine": "French",
     "experience": 9,
@@ -79,7 +79,7 @@
   {
     "id": 8,
     "name": "Kim Young-soo",
-    "image": "https://images.pexels.com/photos/4253294/pexels-photo-4253294.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "https://reactheme.com/products/wordpress/dinenos/wp-content/uploads/2023/02/img-8.webp",
     "details": "Kim Young-soo is a Korean chef who has created a unique fusion of traditional and modern Korean dishes.",
     "cuisine": "Korean",
     "experience": 7,
@@ -90,7 +90,7 @@
   {
     "id": 9,
     "name": "Nadia Ahmed",
-    "image": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "https://reactheme.com/products/wordpress/dinenos/wp-content/uploads/2023/02/img-2.webp",
     "details": "Nadia Ahmed is a Bangladeshi chef who has popularized Bangladeshi cuisine around the world.",
     "cuisine": "Bangladeshi",
     "experience": 5,
