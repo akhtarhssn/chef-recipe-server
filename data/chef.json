@@ -4,62 +4,98 @@
     "name": "Jasmine Lee",
     "image": "https://images.pexels.com/photos/4057693/pexels-photo-4057693.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Jasmine Lee has been a chef for over 10 years and specializes in Chinese cuisine.",
-    "cuisine": "Chinese"
+    "cuisine": "Chinese",
+    "experience": 10,
+    "recipe_item": 4,
+    "likes": 150,
+    "views": 450
   },
   {
     "id": 2,
     "name": "Raj Patel",
     "image": "https://images.pexels.com/photos/4253301/pexels-photo-4253301.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Raj Patel is a renowned Indian chef with over 15 years of experience.",
-    "cuisine": "Indian"
+    "cuisine": "Indian",
+    "experience": 7,
+    "recipe_item": 4,
+    "likes": 50,
+    "views": 600
   },
   {
     "id": 3,
     "name": "Mario Rossi",
     "image": "https://images.pexels.com/photos/4686830/pexels-photo-4686830.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Mario Rossi is an Italian chef who has worked in some of the best restaurants in Italy.",
-    "cuisine": "Italian"
+    "cuisine": "Italian",
+    "experience": 5,
+    "recipe_item": 4,
+    "likes": 120,
+    "views": 200
   },
   {
     "id": 4,
     "name": "Carlos Gonzalez",
     "image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Carlos Gonzalez is a Mexican chef who has won numerous awards for his authentic Mexican dishes.",
-    "cuisine": "Mexican"
+    "cuisine": "Mexican",
+    "experience": 6,
+    "recipe_item": 3,
+    "likes": 124,
+    "views": 60
   },
   {
     "id": 5,
     "name": "Nguyen Van Minh",
     "image": "https://images.pexels.com/photos/3338675/pexels-photo-3338675.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Nguyen Van Minh is a Vietnamese chef who has been cooking traditional Vietnamese dishes for over 20 years.",
-    "cuisine": "Thai"
+    "cuisine": "Thai",
+    "experience": 3,
+    "recipe_item": 5,
+    "likes": 240,
+    "views": 300
   },
   {
     "id": 6,
     "name": "Marie Claude",
     "image": "https://images.pexels.com/photos/4253712/pexels-photo-4253712.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Marie Claude is a French chef who has worked in Michelin-starred restaurants in France.",
-    "cuisine": "French"
+    "cuisine": "French",
+    "experience": 9,
+    "recipe_item": 3,
+    "likes": 325,
+    "views": 100
   },
   {
     "id": 7,
     "name": "Hiroshi Nakamura",
     "image": "https://images.pexels.com/photos/4057739/pexels-photo-4057739.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Hiroshi Nakamura is a Japanese chef who has perfected the art of sushi-making.",
-    "cuisine": "Japanese"
+    "cuisine": "Japanese",
+    "experience": 7,
+    "recipe_item": 4,
+    "likes": 241,
+    "views": 256
   },
   {
     "id": 8,
     "name": "Kim Young-soo",
     "image": "https://images.pexels.com/photos/4253294/pexels-photo-4253294.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Kim Young-soo is a Korean chef who has created a unique fusion of traditional and modern Korean dishes.",
-    "cuisine": "Korean"
+    "cuisine": "Korean",
+    "experience": 7,
+    "recipe_item": 3,
+    "likes": 354,
+    "views": 850
   },
   {
     "id": 9,
     "name": "Nadia Ahmed",
     "image": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "details": "Nadia Ahmed is a Bangladeshi chef who has popularized Bangladeshi cuisine around the world.",
-    "cuisine": "Bangladeshi"
+    "cuisine": "Bangladeshi",
+    "experience": 5,
+    "recipe_item": 4,
+    "likes": 152,
+    "views": 540
   }
 ]
